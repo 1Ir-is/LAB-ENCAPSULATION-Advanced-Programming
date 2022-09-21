@@ -1,0 +1,15 @@
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\bin\Debug\net6.0\LAB ENCAPSULATION.exe
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\bin\Debug\net6.0\LAB ENCAPSULATION.deps.json
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\bin\Debug\net6.0\LAB ENCAPSULATION.runtimeconfig.json
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\bin\Debug\net6.0\LAB ENCAPSULATION.dll
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\bin\Debug\net6.0\LAB ENCAPSULATION.pdb
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\LAB ENCAPSULATION.csproj.AssemblyReference.cache
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\LAB ENCAPSULATION.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\LAB ENCAPSULATION.AssemblyInfoInputs.cache
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\LAB ENCAPSULATION.AssemblyInfo.cs
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\LAB ENCAPSULATION.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\LAB ENCAPSULATION.dll
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\refint\LAB ENCAPSULATION.dll
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\LAB ENCAPSULATION.pdb
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\LAB ENCAPSULATION.genruntimeconfig.cache
+E:\Advanced Programming\Bai tap\LAB ENCAPSULATION\LAB ENCAPSULATION\obj\Debug\net6.0\ref\LAB ENCAPSULATION.dll
